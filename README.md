@@ -1,3 +1,6 @@
+> ### ⚠️ You're looking at the **beta** branch.
+> The main difference: beta mods work better with this branch than the master branch. This shouldn't be used if your bot wasn't made using the beta version.
+
 # 🦸‍♂️ Superman
 ### Run your DBM bot on Glitch with a couple of clicks.
 [![Build Status](https://img.shields.io/github/stars/noahmarshall12/superman.svg?style=for-the-badge)](https://github.com/noahmarshall12/superman) [![Build Status](https://img.shields.io/github/forks/noahmarshall12/superman.svg?style=for-the-badge)](https://github.com/noahmarshall12/superman)
